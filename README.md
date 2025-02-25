@@ -18,4 +18,4 @@ ________________________
 ________________________
 ## Моя статистика
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gadetych&locale=ru)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gadetych)](https://git.io/streak-stats)
